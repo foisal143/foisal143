@@ -6,7 +6,7 @@ Experienced MEAN stack developer with a passion for building robust, scalable we
 
 Skills:  REACT / JS / HTML / CSS / FIREBASE / MONGODB / NODE
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on a MERN project. 
 
 
 
