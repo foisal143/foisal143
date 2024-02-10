@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Foisal</h1>
-<h3 align="center">A passionate MEARN stack developer from Bangladesh</h3>
+(https://i.ibb.co/sgJ5c5Y/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
+<h1 align="left">Hi 👋, I'm Foisal</h1>
+<h3 align="left">A passionate MEARN stack developer from Bangladesh</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
