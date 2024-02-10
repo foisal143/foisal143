@@ -1,10 +1,13 @@
-(https://i.ibb.co/sgJ5c5Y/Black-Minimal-Business-Personal-Profile-Linkedin-Banner.png)
-<h1 align="left">Hi 👋, I'm Foisal</h1>
-<h3 align="left">A passionate MEARN stack developer from Bangladesh</h3>
+![A passionate MERN stack developer from Bangladesh](https://i.ibb.co/TYjX3f2/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1.png)
+### Hi there 👋,  I am Foisal
+#### A passionate MERN stack developer from Bangladesh
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Experienced MEAN stack developer with a passion for building robust, scalable web applications. Proficient in MongoDB, Express.js, React, and Node.js, I specialize in crafting end-to-end solutions that deliver exceptional user experiences. From database design to front-end development, I bring a holistic approach to every project, ensuring performance, security, and maintainability. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+Skills:  REACT / JS / HTML / CSS / FIREBASE / MONGODB / NODE
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
