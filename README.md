@@ -1,4 +1,4 @@
-![A passionate MERN stack developer from Bangladesh](https://i.ibb.co/TYjX3f2/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1.png)
+![A passionate MERN stack developer from Bangladesh]([https://i.ibb.co/TYjX3f2/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1.png](https://i.ibb.co/TYjX3f2/Black-Minimal-Business-Personal-Profile-Linkedin-Banner-1.png))
 ### Hi there 👋,  I am Foisal
 #### A passionate MERN stack developer from Bangladesh
 
